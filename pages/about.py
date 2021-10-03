@@ -13,7 +13,7 @@ def app():
     st.title("Welcome to the about me page")
 
     # Add an image
-    st.image("./irris_classification.png")
+    st.image("./image/cancer_prediction.jpg")
     
     # Add Contact Details
     st.header('Contact Us')

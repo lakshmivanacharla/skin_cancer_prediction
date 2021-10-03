@@ -10,7 +10,7 @@ def app():
     st.title("Welcome to the project scope page")
 
     # Add image
-    st.image("./irris_classification.png")
+    st.image("./image/cancer_prediction.jpg")
 
     # Add model description
     st.write("project scope")

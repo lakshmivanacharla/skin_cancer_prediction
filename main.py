@@ -4,13 +4,14 @@
 import streamlit as st
 
 # import pages
-from pages import home, prediction, about
+from pages import home, prediction, about, scope
 
 # Dictionary for pages
 pages = {
     "Home": home,
     "Prediction": prediction,
-    "About me": about
+    "About me": about,
+    "Scope" : scope
 }
 
 # Creating sidebar navigation
