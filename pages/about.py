@@ -27,7 +27,7 @@ def app():
     lakshmivanacharla@gmail.com''')
 
     # Add github
-    st.markdown('''### GitHub: ''')
+    st.markdown('''### GitHub: https://github.com/lakshmivanacharla/insurance_prediction''')
 
     # Add linkedin
-    st.markdown('''### Linkedin: ''')
+    st.markdown('''### Linkedin: https://www.linkedin.com/in/lakshmi-prasanna-vanacharla-aa4046202/''')
